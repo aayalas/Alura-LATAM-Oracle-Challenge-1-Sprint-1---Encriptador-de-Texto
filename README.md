@@ -12,7 +12,7 @@ Encriptador de Texto.
   </a>
 </div>  
 
-## Descrição
+## Descripción
 
 ### Proyecto desarrollado para el bootcamp de Alura en sociedad con Oracle, el desafío fue crear un site con HTML, CSS y JavaScript para encriptar y desencriptar palabras o frases completas.
 
